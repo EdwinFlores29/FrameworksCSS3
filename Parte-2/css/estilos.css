@@ -1,0 +1,220 @@
+/* Clase para darle estilos al body */
+.body {
+  background:  #922b21;
+}
+/* Clase para darle estilos al container */
+.container{
+  background-color:  #f7dc6f;
+}
+
+/* Clase para darle estilos contenedor header */
+.tit-menu{
+  min-height: 200px !important;
+}
+
+/* Clase para darle estilos redes sociales */
+.redes-sociales {
+  margin-top: 140px;
+}
+
+/* Clase para darle estilos al png */
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+
+/* Clase para darle estilos navbar */
+.navbar {
+  background: #eb984e;
+  min-height: 40%;
+  border: none;
+}
+
+/* Una clase para estilo de tamaño */
+.med-navbar{
+  min-height: 60px !important;
+}
+
+/* Una clase para estilos de posicionamiento */
+.aling-item{
+  margin-top: 20px;
+}
+.aling-item2{
+  margin-bottom: 20px;
+}
+
+/* Una clase para estilos a la imagen */
+.logo-img {
+  width: 180px;
+  margin-top: 5px;
+}
+.logo-img2 {
+  width: 65px;
+  margin: 10px;
+}
+.logo-img3 {
+  margin: 15px;
+}
+
+/* Clase para darle estilos a las etquetas a */
+.a-style{
+  font-size: 2rem;
+}
+
+/* Clase para darle estilos al padding de elementos */
+.padd{
+  padding-top: 20px;
+}
+.padd2{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.padd3{
+  margin-top: 15px;
+}
+.aling2{
+  margin: 10px;
+}
+
+/* Clase para darle estilos a la seccion*/
+.section{
+  background:   #f4f6f7;
+  min-height: 792px !important;
+}
+
+/* Clase para darle estilos a la seccion*/
+.aside{
+  background:  #f4f6f7;
+  min-height: 767px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.color1{
+  background: #2ecc71 ;
+}
+.color2{
+  background: #ec7063 ;
+}
+.color3{
+  background: #16a085 ;
+}
+.color4{
+  background:   #7e5109  ;
+}*/
