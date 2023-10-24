@@ -1,0 +1,71 @@
+/* ..::Estilos generales*/
+.body {
+  background: url(../img/machu-pichu.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.logo{
+  max-width: 150px;
+  margin-top: -7.5rem;
+  margin-left: 9.5rem;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.barra-superior{
+  min-height: 9rem !important;
+}
+
+.tam{
+  min-height: 0.5rem;
+}
+
+.contenedor-botones{
+  margin-top: 1.5rem;
+  padding: 3rem;
+}
+.contenedor-publicacion{
+  min-height: 17rem;
+}
+.contenedor-publicacion2{
+  min-height: 37rem;
+}
+.text1{
+  margin-top: -6.5rem;
+  color: white;
+}
+.text-form{
+  font-size: 2.5rem;
+  color: white;
+}
+.img-2{
+  padding: 0.9rem;
+}
+.color{
+  background:  #515a5a;
+}
+.color-form{
+  background:   #0bb6b6;
+}
+.text-aling{
+  font-size: 1.4rem;
+  text-align : justify;
+}
+.color1{
+  background:  #aef3f3;
+}
+.margen-img{
+  margin-left: 0rem;
+}
+.img-social {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px 5px 5px 5px;
+}
+.img-social2 {
+  width: 80px;
+  height: 80px;
+
+}
+.redes-sociales {
+  margin-top: 140px;
+}
