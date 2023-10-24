@@ -1,0 +1,55 @@
+/* ..::Estilos generales..::*/
+.body {
+  background: url(../img/sala1.png) no-repeat center center fixed;
+  background-size: cover;
+}
+/* ..::Estilos generales colores..::*/
+.color-row{
+  background:    rgba(  36, 113, 163 , 0.8);
+}
+.text-color{
+  color:   #ffffff;
+}
+.color-callout{
+  background:    rgba(    235, 222, 240   , 0.8);
+}
+.color-callout2{
+  background:    rgba(   254, 249, 231  , 0.8);
+}
+.texto-color2{
+  color:  #5499c7;
+}
+.texto-color3{
+  color:   #cd6155;
+}
+.texto-color4{
+  color:     #515a5a;
+}
+/* ..::Estilos generales bordes..::*/
+.bordes{
+  border-right:  2px solid #FFFFFF;
+}
+.bordes2{
+  border-bottom: 2px solid #FFFFFF;
+}
+/* ..::Estilos generales margen..::*/
+.pp2{
+  padding: 15px;
+}
+.mm{
+margin-top: 85px;
+}
+.mm-content{
+margin-top: 35px;
+}
+.pp3{
+  margin-top: 15px;
+}
+
+/* ..::Estilos generales imagenes..::*/
+.logo-img{
+  width: 30%;
+}
+img{
+  max-width:  129px;
+}
